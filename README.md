@@ -4,6 +4,7 @@
 <p>Ainda faltam as resenhas e alguns ajustes estéticos.</p>
 **Em processo incessante de lapidações. Aguardem pelas próximas, por favor. (:**
 
+
 **Tecnologias Utilizadas**
 
 - HTML
